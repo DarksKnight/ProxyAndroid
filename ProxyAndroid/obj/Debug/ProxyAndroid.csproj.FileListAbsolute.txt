@@ -1,0 +1,11 @@
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\bin\Debug\ProxyAndroid.exe.config
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\obj\Debug\ProxyAndroid.csprojResolveAssemblyReference.cache
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\obj\Debug\ProxyAndroid.Form1.resources
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\obj\Debug\ProxyAndroid.Properties.Resources.resources
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\obj\Debug\ProxyAndroid.csproj.GenerateResource.Cache
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\bin\Debug\ProxyAndroid.exe
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\bin\Debug\ProxyAndroid.pdb
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\obj\Debug\ProxyAndroid.exe
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\obj\Debug\ProxyAndroid.pdb
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\obj\Debug\ProxyAndroid.InitWindow.resources
+C:\Users\sunhaoyang.BOJOY\Desktop\ProxyAndroid\ProxyAndroid\obj\Debug\ProxyAndroid.Setting.resources

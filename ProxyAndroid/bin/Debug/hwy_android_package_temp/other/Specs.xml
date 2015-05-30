@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringList >
+	<String Name="VersionCode" Value="100" />
+
+	<String Name="VersionName" Value="1.0.0" />
+
+	<String Name="PackageName" Value="com.bojoy.ProxyM_cn_cn.hwy_android_coolpad" />
+
+</StringList>
